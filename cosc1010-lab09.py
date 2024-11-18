@@ -1,9 +1,9 @@
-# Your Name Here
+# Isabell Mora
 # UWYO COSC 1010
-# Submission Date
-# Lab XX
-# Lab Section:
-# Sources, people worked with, help given to:
+# 11-17-24
+# Lab 09
+# Lab Section: 11
+# Sources, people worked with, help given to: Ethan romero
 # Your
 # Comments
 # Here
